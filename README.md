@@ -39,10 +39,18 @@ A passionate Full-Stack Web Developer & Designer, always exploring new technolog
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma,threejs" height="40" alt="Design Stack"/>
 </div>
+
+### 🧠 Programming Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,py,java,js,c++" height="40" alt="Languages"/>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkumarMarre&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujay149&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/><br/>
 </div>
 
 ---
