@@ -22,27 +22,27 @@ A passionate Full-Stack Web Developer & Designer, always exploring new technolog
 
 ### 🌐 Web & App Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,nextjs,ts,tailwind," height="40" alt="Web & App Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,react,nodejs,nextjs,ts," height="40" alt="Web & App Technologies"/>
 </div>
 
 ### 🗃 Database Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres" height="40" alt="Database Stack"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="40" alt="Database Stack"/>
 </div>
 
 ### 🛠 Tools & Platforms
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,notion,netlify,vscode" height="40" alt="Tools Stack"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" height="40" alt="Tools Stack"/>
 </div>
 
 ### 🎨 Design & UI/UX
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,threejs" height="40" alt="Design Stack"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Design Stack"/>
 </div>
 
 ### 🧠 Programming Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,java,js,c++" height="40" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,py,java,js" height="40" alt="Languages"/>
 </div>
 
 ---
