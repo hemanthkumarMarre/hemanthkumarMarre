@@ -42,7 +42,7 @@ A passionate Full-Stack Web Developer & Designer, always exploring new technolog
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkumarMarre&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=hemanthkumarMarre&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/><br/>
 </div>
 
 ---
