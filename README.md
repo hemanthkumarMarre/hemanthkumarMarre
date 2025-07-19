@@ -1,4 +1,4 @@
-# 👋 Heyy!! I'm Sujay Thota
+# 👋 Heyy!! I'm hemanth kumar Marre
 
 A passionate Full-Stack Web Developer & Designer, always exploring new technologies to build innovative, robust, and scalable web & mobile applications.  
 🎓 Currently pursuing my B.Tech at SRKR Engineering College, specializing in **Computer Science & Design.
@@ -42,7 +42,7 @@ A passionate Full-Stack Web Developer & Designer, always exploring new technolog
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujay149&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkumarMarre&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/><br/>
 </div>
 
 ---
@@ -50,13 +50,13 @@ A passionate Full-Stack Web Developer & Designer, always exploring new technolog
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sujay149&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hemanthkumarMarre&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sujay149&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=hemanthkumarMarre&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </div>
 
 ---
